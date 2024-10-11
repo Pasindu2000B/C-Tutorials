@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C# Tutorials\FirstClass\Arrays\obj\Debug\net8.0\ref\Arrays.dll
